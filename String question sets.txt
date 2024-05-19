@@ -1,0 +1,30 @@
+
+1. **Anagram Detection:**
+   Write a Java program that determines if two strings are anagrams. An anagram is a word or phrase formed by rearranging the letters of another, such as "listen" and "silent."
+
+2. **Longest Substring Without Repeating Characters:**
+   Implement a Java function that finds the length of the longest substring without repeating characters in a given string. For example, in the string "abcabcbb," the longest substring without repeating characters is "abc," and the length is 3.
+
+3. **String Compression:**
+   Create a Java program to perform basic string compression. Given a string like "aabcccccaaa," the program should return the compressed string "a2b1c5a3."
+
+4. **Regular Expression Matching:**
+   Develop a Java function that checks if a given string matches a pattern containing '.' (matches any single character) and '*' (zero or more occurrences of the preceding element). For example, the pattern "mis*is*p*." should match the string "mississippi."
+
+5. **String Rotation:**
+   Write a Java function to determine if one string is a rotation of another. For instance, "waterbottle" is a rotation of "erbottlewat."
+
+6. **Edit Distance:**
+   Implement a Java function that calculates the minimum number of edits (insertions, deletions, substitutions) required to transform one string into another. For example, transforming "kitten" to "sitting" requires three edits: "s" instead of "k," "i" instead of "e," and appending "g."
+
+7. **Palindrome Partitioning:**
+   Create a Java program that generates all possible palindrome partitioning of a given string. For instance, the input "aab" should produce output like ["aa", "b"] and ["a", "a", "b"].
+
+8. **Longest Common Prefix:**
+   Write a Java function that finds the longest common prefix string among an array of strings. For example, given the strings ["flower", "flow", "flight"], the program should return "fl."
+
+9. **Reverse Words in a String:**
+   Implement a Java program that reverses the words in a given string while maintaining the word order. For instance, the input "Hello World" should become "World Hello."
+
+10. **String to Integer (atoi):**
+    Develop a Java function that converts a string to an integer (similar to the atoi function in C/C++). The function should handle cases with leading/trailing spaces, additional characters, and potential overflow or underflow issues.
