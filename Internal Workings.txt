@@ -1,9 +1,11 @@
 Q.Internal working of hashset in java.
-	HashSet is a class from the Collections Framework. It allows you to store multiple values in a collection using a hash table. The hash table stores the values in an unordered method with the help of hashing mechanism.
-Here are the steps on how HashSet works internally in Java:
-	-When you create a HashSet object, it internally creates a HashMap object.
-	-Whenever you add an element to the HashSet, the element's hash code is calculated.
+	-HashSet is a class from the Collections Framework. 
+	-HashSet internally uses HashMap to store it's elements.
+	-Whenever you create a HashSet object, one HashMap object associated with it is also created. This HashMap object is 	 used to store the elements you enter in the HashSet.
+	-Whenever you add an element to the HashSet, the element's hash code is calculated using hashcode() function.
 	-The hash code is then used to determine which bucket in the hash table the element should be stored in.
-	-The element is then stored in the bucket.
+	-The elements you add into HashSet are stored as keys of this HashMap object.
 	-If you try to add an element that is already in the HashSet, the element will not be added again.
-	-When you iterate over the HashSet, the elements are returned in no particular order.
+	-The value associated with those keys will be a constant.
+
+

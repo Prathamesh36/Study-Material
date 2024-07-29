@@ -1,0 +1,37 @@
+General Questions
+Can you give an overview of your real-time chat application project?
+What were the primary goals of this project?
+What challenges did you face during the development, and how did you overcome them?
+Backend (Spring Boot)
+Why did you choose Spring Boot for the backend of your chat application?
+Can you explain how you implemented RESTful APIs in your project?
+How did you handle database interactions in Spring Boot?
+What strategies did you use for error handling and validation in your APIs?
+Frontend (ReactJs)
+Why did you choose ReactJs for the frontend?
+How did you manage state in your React application?
+Can you describe how you structured your React components for this project?
+Security (JWT & Spring Security)
+Can you explain how JWT authentication works in your application?
+How did you implement Spring Security to ensure user authentication and authorization?
+What measures did you take to secure your RESTful APIs?
+Real-Time Communication (Web-Socket)
+Why did you decide to use Web-Socket technology for real-time communication?
+Can you explain how you implemented Web-Sockets in your application?
+How do you manage connections and message broadcasting in Web-Sockets?
+Architecture and Design
+Can you describe the overall architecture of your chat application?
+How did you ensure scalability and performance in your application?
+What design patterns did you use, and why?
+Testing and Deployment
+What kind of testing did you perform on your application?
+How did you handle continuous integration and deployment (CI/CD) for this project?
+Can you describe the deployment process for your chat application?
+Additional Features and Future Improvements
+Are there any additional features you would like to add to your chat application?
+How would you handle adding new features without disrupting existing functionality?
+What improvements or optimizations would you make if you had more time?
+Project Management and Collaboration
+How did you manage your development process and track progress?
+Did you work with a team on this project? If so, how did you collaborate and communicate?
+How did you gather and incorporate feedback during the development process?
